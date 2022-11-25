@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "970769932886",
+    "project_id": "paycoincust",
+    "storage_bucket": "paycoincust.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970769932886:android:249d4b5d1ec69f0b2991f7",
+        "android_client_info": {
+          "package_name": "com.deliveryboy.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970769932886-d517ec6lq1menpttnsoq55omm14ue840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2h5K-jUlqMZbCW9i-X9-HnglvoJLg9Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970769932886-d517ec6lq1menpttnsoq55omm14ue840.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970769932886-kcl4b5poiftj2kon015n39134irlcshb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryboymultivendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970769932886:android:2a67179873a76a112991f7",
+        "android_client_info": {
+          "package_name": "eShop.multivendor.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970769932886-d517ec6lq1menpttnsoq55omm14ue840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2h5K-jUlqMZbCW9i-X9-HnglvoJLg9Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970769932886-d517ec6lq1menpttnsoq55omm14ue840.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970769932886-kcl4b5poiftj2kon015n39134irlcshb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryboymultivendor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970769932886:android:a533790feee541bd2991f7",
+        "android_client_info": {
+          "package_name": "wrteam.seller.multivendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970769932886-d517ec6lq1menpttnsoq55omm14ue840.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2h5K-jUlqMZbCW9i-X9-HnglvoJLg9Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970769932886-d517ec6lq1menpttnsoq55omm14ue840.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970769932886-kcl4b5poiftj2kon015n39134irlcshb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryboymultivendor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
